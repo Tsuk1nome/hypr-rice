@@ -22,14 +22,6 @@ The goal is simplicity, consistency, and an easy-to-maintain configuration.
 
 ---
 
-## ✨ About This Rice
-- **Minimalistic design** – no clutter, just the essentials  
-- **Productivity-focused** – fast keybindings, quick app launching  
-- **Consistent theming** – matching colors across all apps  
-- **Wayland-powered** – smooth performance with modern compositor features  
-
----
-
 ## 📂 Included Configurations
 - `hypr/` – Hyprland main configuration 
 - `kitty/` – Kitty terminal theme and color palette
