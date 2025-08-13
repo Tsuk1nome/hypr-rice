@@ -34,7 +34,7 @@ The goal is simplicity, consistency, and an easy-to-maintain configuration.
 - `hypr/` – Hyprland main configuration 
 - `kitty/` – Kitty terminal theme and color palette
 - `waybar/` – Task bar styling and modules
-- `rofi/` – App launcher theme (credit to Aditya Shakya https://github.com/adi1090x/rofi?tab=readme-ov-file , mine is launcher type 4 style 8) 
+- `rofi/` – App launcher theme (credit to Aditya Shakya https://github.com/adi1090x/rofi , mine is launcher type 4 style 8) 
 - `.bashrc` – shell style
 - `     /` – file manager theme
 
