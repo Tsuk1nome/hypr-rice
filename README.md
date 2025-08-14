@@ -34,7 +34,7 @@ The goal is simplicity, consistency, and an easy-to-maintain configuration.
 ---
 
 ## 📸 Screenshots
-
+(screenshots/screenshot1.png)
 
 ---
 
