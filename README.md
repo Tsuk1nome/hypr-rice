@@ -13,7 +13,7 @@ The goal is simplicity, consistency, and an easy-to-maintain configuration.
 - **WM**: Hyprland
 - **App Launcher**: Rofi
 - **Terminal Emulator**: Kitty
-- **File Manager**: *      *
+- **File Manager**: *thunar*
 - **Wallpaper Manager**: Hyprpaper / Waypaper
 - **Task Bar**: Waybar
 - **Browser**: Vivaldi
@@ -28,13 +28,13 @@ The goal is simplicity, consistency, and an easy-to-maintain configuration.
 - `waybar/` – Task bar styling and modules
 - `rofi/` – App launcher theme (credit to Aditya Shakya https://github.com/adi1090x/rofi , mine is launcher type 4 style 8) 
 - `.bashrc` – shell style
-- `     /` – file manager theme
+- `neofetch/` – neofetch configs
 
 
 ---
 
 ## 📸 Screenshots
-*(Add screenshots here)*
+
 
 ---
 
