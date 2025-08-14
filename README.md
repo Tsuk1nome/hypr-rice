@@ -35,8 +35,8 @@ The goal is simplicity, consistency, and an easy-to-maintain configuration.
 
 ## 📸 Screenshots
 ![Main Desktop](screenshots/screenshot1.png)
-![Terminal + Waybar](screenshots/screenshot3.png)
-![Terminal + Waybar](screenshots/screenshot4.png)
+![Vivaldi + Nano](screenshots/screenshot3.png)
+![Rofi](screenshots/screenshot4.png)
 
 ---
 
